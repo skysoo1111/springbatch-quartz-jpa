@@ -74,6 +74,3 @@ logging:
     org:
       springframework: INFO
 ```
-
-
-
